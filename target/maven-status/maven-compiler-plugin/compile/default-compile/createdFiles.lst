@@ -1,0 +1,17 @@
+com\sa\person\config\TokenUtils.class
+com\sa\person\config\JWTAuthenticationFilter.class
+com\sa\person\service\PersonaService.class
+com\sa\person\config\JWTAuthorizationFilter.class
+com\sa\person\controller\UserController.class
+com\sa\person\service\UserDetailsImpl.class
+com\sa\person\config\AuthCredentials.class
+com\sa\person\model\Persona.class
+com\sa\person\service\UserDetailServiceImpl.class
+com\sa\person\repository\PersonaRepository.class
+com\sa\person\config\SecurityConfiguration.class
+com\sa\person\service\UserService.class
+com\sa\person\controller\PersonaController.class
+com\sa\person\PruebaApplication.class
+com\sa\person\config\HealthCheck.class
+com\sa\person\model\User.class
+com\sa\person\repository\UserRepository.class

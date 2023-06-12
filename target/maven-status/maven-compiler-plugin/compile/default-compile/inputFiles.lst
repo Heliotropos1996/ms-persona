@@ -1,0 +1,17 @@
+C:\proyectos\prueba\src\main\java\com\sa\person\config\JWTAuthenticationFilter.java
+C:\proyectos\prueba\src\main\java\com\sa\person\config\SecurityConfiguration.java
+C:\proyectos\prueba\src\main\java\com\sa\person\repository\PersonaRepository.java
+C:\proyectos\prueba\src\main\java\com\sa\person\service\PersonaService.java
+C:\proyectos\prueba\src\main\java\com\sa\person\config\HealthCheck.java
+C:\proyectos\prueba\src\main\java\com\sa\person\model\Persona.java
+C:\proyectos\prueba\src\main\java\com\sa\person\PruebaApplication.java
+C:\proyectos\prueba\src\main\java\com\sa\person\config\TokenUtils.java
+C:\proyectos\prueba\src\main\java\com\sa\person\repository\UserRepository.java
+C:\proyectos\prueba\src\main\java\com\sa\person\controller\UserController.java
+C:\proyectos\prueba\src\main\java\com\sa\person\config\AuthCredentials.java
+C:\proyectos\prueba\src\main\java\com\sa\person\service\UserDetailServiceImpl.java
+C:\proyectos\prueba\src\main\java\com\sa\person\service\UserDetailsImpl.java
+C:\proyectos\prueba\src\main\java\com\sa\person\service\UserService.java
+C:\proyectos\prueba\src\main\java\com\sa\person\config\JWTAuthorizationFilter.java
+C:\proyectos\prueba\src\main\java\com\sa\person\controller\PersonaController.java
+C:\proyectos\prueba\src\main\java\com\sa\person\model\User.java
